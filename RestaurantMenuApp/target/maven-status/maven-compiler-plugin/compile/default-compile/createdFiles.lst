@@ -1,0 +1,8 @@
+com\restaurant\menu\AddMenuServlet.class
+com\restaurant\menu\EditMenuServlet.class
+com\chatbot\restaurantmenuapp\resources\JakartaEE10Resource.class
+com\restaurant\menu\DeleteMenuServlet.class
+com\restaurant\menu\MenuServlet.class
+com\restaurant\menu\TestHibernate.class
+com\chatbot\restaurantmenuapp\JakartaRestConfiguration.class
+com\restaurant\menu\model\MenuItem.class
